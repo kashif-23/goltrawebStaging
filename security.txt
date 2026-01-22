@@ -1,0 +1,3 @@
+Contact: mailto:hello@goltra.eu
+Preferred-Languages: en, cs, de
+Policy: https://goltra.eu/privacy.html
